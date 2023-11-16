@@ -1,0 +1,176 @@
+[
+    {
+        "id": 1,
+        "location": "Global Observatory on Pollution and Health",
+        "sublocation": "> Chestnut Hill, MA",
+        "header": "Researcher and Web Developer",
+        "href": "https://bc.edu/masscleanair",
+        "linkTitle": "Mass Clean Air",
+        "date": "May 2022",
+        "body": "<strong>Analyzed Massachusetts town-based data</strong> for air pollution health outcomes... <strong>Wrote</strong> sections of the published paper... Creating a website for the project using <strong>Adobe Experience Manager, R Shiny, html, css, and JavaScript</strong>...",
+        "relevancy": 100,
+        "showSeeAlso": true,
+        "seeAlso": [
+            {   
+                "href": "https://www.google.com/search?q=web+development",
+                "text": "Web Development"
+            }, 
+            {
+                "href": "https://www.google.com/search?q=Adobe+Experience+Manager",
+                "text": "AEM"
+            },
+            {
+                "href": "https://www.google.com/search?q=User-Centered+Design",
+                "text": "'User-Centered Design"
+            },
+            {
+                "href": "https://www.google.com/search?q=photoshop",
+                "text": "Photoshop"
+            }
+        ],
+        "showAdditionalDetails": false,
+        "additionalDetails": [],
+        "keywords": ["public", "health", "global", "Observatory", "design", "Visualization", "data", "research", "researcher", "statistics", "biostatistics", "pollution", "enviroment", "environmental", "leader", "leadership"],
+        "languages": ["R", "JavaScript", "HTML", "CSS", "AEM", "Photoshop", "Shiny"]
+
+    },
+    {
+        "id": 2,
+        "location": "Online",
+        "sublocation": "> Asynchronous",
+        "header": "Freemote Bootcamp",
+        "href": "https://www.freemote.com/",
+        "linkTitle": "Freemote",
+        "date": "March 2022",
+        "body": "Began an asynchronus bootcamp to improve <strong> JavaScript</strong> and strengthen <strong>HTML and CSS</strong>... doing <strong>projects</strong> and starting <strong>freelancing</strong> on Upwork...",
+        "relevancy": 20,
+        "showSeeAlso": false,
+        "seeAlso": [],
+        "showAdditionalDetails": false,
+        "additionalDetails": [],
+        "keywords": ["Code", "Technical", "coding", "background", "bootcamp", "front", "freelance", "freelancing"],
+        "languages": ["JavaScript", "React", "HTML", "CSS"]
+    },
+    {
+        "id": 3,
+        "location": "Boston College",
+        "sublocation": "> Chestnut Hill, MA",
+        "header": "Education - Mathematics Major",
+        "href": "https://bc.edu",
+        "linkTitle": "Boston College Website",
+        "date": "Dec 2021",
+        "body": " B.A. in <strong>Mathematics</strong> & minor in <strong>Global Public Health</strong>...",
+        "relevancy": 60,
+        "showSeeAlso": false,
+        "seeAlso": [],
+        "showAdditionalDetails": true,
+        "additionalDetails": [
+            {
+                "href": "https://www.bc.edu/bc-web/schools/morrissey/sites/academic-advising-center/academic-policies.html",
+                "linkTitle": "Boston College Academic Policies",
+                "leftText":"<strong>Deans List</strong> First Honors",
+                "middleText":"5 results",
+                "rightText":"2018-2021"
+            },
+            {
+                "href": "https://studyabroad.sit.edu/program/fall-2023-india-public-health-gender-sexuality/",
+                "linkTitle": "SIT Study Abroad Program",
+                "leftText":"<strong>Public</strong> Health Study Abroad",
+                "middleText":"1 semester",
+                "rightText":"2019"
+            },
+            {
+                "href": "https://www.bc.edu/bc-web/offices/student-affairs/sites/ugbc.html",
+                "linkTitle": "Undergraduate Government of Boston College",
+                "leftText":"<strong>Undergraduate Government</strong> COVID-19 Specialist",
+                "middleText":"1 year",
+                "rightText":"2020-2021"
+            },
+            {
+                "href": "https://www.youtube.com/watch?v=PUOqgUyMplw",
+                "linkTitle": "Full Swing YouTube",
+                "leftText":"Full Swing Dance <strong>Captain</strong>",
+                "middleText":"3 results",
+                "rightText":"2020-2021"
+            }
+        ],
+        "keywords": ["math", "mathematics", "statistics", "education", "background", "public", "health", "India"],
+        "languages": ["R", "modeling", "math", "mathematics", "statistics"]
+
+    },
+    {
+        "id": 4,
+        "location": "C-Change",
+        "sublocation": "> Chan School of Public Health > Harvard University",
+        "header": "Intern and R Developer",
+        "href": "https://github.com/lukebryan123/TRECH_CountyMapTool",
+        "linkTitle": "Github for TRECH County Map Tool",
+        "date": "October 2021",
+        "body": "Used GIS mappiing in <strong>ArcGIS and R</strong> to visualize projected health outcomes in 14 states... <strong>interactive</strong> Shiny application for <strong>presenting data</strong> to stakeholders and the public... including lots of <strong>logic and data transformation</strong>.",
+        "relevancy": 70,
+        "showSeeAlso": true,
+        "seeAlso": [
+            {
+                "href": "https://www.google.com/search?q=r+(programming+language)",
+                "text": "R"
+            },
+            {
+                "href": "https://www.google.com/search?q=data+visualization",
+                "text": "Data Visualization"
+            },
+            {
+                "href": "https://www.google.com/search?q=policy+change",
+                "text": "Policy Change"
+            },
+            {
+                "href": "https://www.google.com/search?q=interactive",
+                "text": "Interactive"
+            },
+            {
+                "href": "https://www.google.com/search?q=accessibility",
+                "text": "Accessibility"
+            }
+        ],
+        "showAdditionalDetails": false,
+        "additionalDetails": [],
+        "keywords": ["Mapping", "map", "public", "health", "research", "developer", "develop", "software"],
+        "languages": ["R", "Shiny", "tableau", "ArgGIS", "GIS", "Excel"]
+
+    },
+    {
+        "id": 5,
+        "location": "Homeless Services Bureau",
+        "sublocation": "> Boston Public Health Commission > Boston, MA",
+        "header": "Data Analysis Intern, Policy Associate, and Counselor",
+        "href": "https://www.boston.gov/government/cabinets/boston-public-health-commission/homeless-services",
+        "linkTitle": "BPHC website",
+        "date": "Oct 2021",
+        "body": "Performed a series of<strong> equity analyses</strong> on shelter restriction data using <strong>SAS</strong>... began <strong>tracking</strong> isolation and quarantine housing for covid...",
+        "relevancy": 80,
+        "showSeeAlso": false,
+        "seeAlso": [],
+        "showAdditionalDetails": false,
+        "additionalDetails": [],
+        "keywords": ["public", "health", "service", "epidemiology", "analysis", "equity", "assess", "access", "restriction", "grievance", "housing", "homeless"],
+        "languages": ["SAS", "Excel"]
+
+    },
+    {
+        "id": 6,
+        "location": "Daytona Beverages",
+        "sublocation": "> Anheuser-Busch LLC > Daytona Beach, FL",
+        "header": "Accounting Intern",
+        "href": "https://www.daytonabud.com/about-us/company",
+        "linkTitle": "Daytona-Bud Website",
+        "date": "Aug 2019",
+        "body": "<strong>Rolled out</strong> a new online ordering <strong>software</strong> and created <strong>six programs</strong> to automate product setup... <strong>organized</strong> a tax audit and managed daily reporting... ",
+        "relevancy": 10,
+        "showSeeAlso": false,
+        "seeAlso": [],
+        "showAdditionalDetails": false,
+        "additionalDetails": [],
+        "keywords": ["tax", "software", "leadership"],
+        "languages": ["Excel"]
+
+    }
+]
